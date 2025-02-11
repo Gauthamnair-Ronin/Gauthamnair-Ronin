@@ -2,7 +2,7 @@
   <style>
     text {
       fill: #00ff00;
-      font-size: 14px;
+      font-size: 18px;
       font-family: 'Courier New', monospace;
     }
 
