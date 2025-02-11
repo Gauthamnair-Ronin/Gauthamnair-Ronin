@@ -40,8 +40,8 @@
   
   <text x="20" y="450" class="typing" style="animation-delay: 9s;">Connecting with like-minded devs...(^_^)</text>
 
-  <text x="20" y="500" class="typing" style="animation-delay: 10s;">Process complete. System online...</text>
+  <text x="20" y="500" class="typing" style="animation-delay: 12s;">Process complete. System online...</text>
   
 
-  <text x="20" y="550" class="typing" style="animation-delay: 11s;">_Connection Established_ </text>
+  <text x="20" y="550" class="typing" style="animation-delay: 13s;">_Connection Established_ </text>
 </svg>
