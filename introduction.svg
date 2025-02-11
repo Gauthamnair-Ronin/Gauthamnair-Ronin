@@ -2,8 +2,8 @@
   <style>
     text {
       fill: #00ff00;
-      font-size: 30px;
-      font-family: 'Courier New', monospace;
+      font-size: 24px;
+      font-family: 'Press Start 2P', monospace;
     }
 
     .typing {
